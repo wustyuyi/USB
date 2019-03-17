@@ -1,2 +1,5 @@
 # USB
-USB development
+USB EVK board
+
+2018-12-15 
+1)STM32F103CBT6 SPI2 drive microSD card

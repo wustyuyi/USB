@@ -136,8 +136,6 @@ int SD_TotalSize(char *path)
   */
 int main(void)
 {
-	uint8_t t = 0;
-    
     SystemInit();
 	USART_Configuration();
     LED_Init();
